@@ -1,2 +1,2 @@
 ### Time-series-models
-#ARIMA models LinkedIn course practice
+ARIMA models LinkedIn course practice
